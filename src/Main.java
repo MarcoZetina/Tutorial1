@@ -3,7 +3,7 @@
 // OK, I will add `Adder` and s30409 will add `Subtractor`.
 public class Main {
     public static void main(String[] args) {
-        Adder adder = new Adder();
+        adder adder = new adder();
         System.out.println(adder.add(1, 2));
 
         Subtractor subtractor = new Subtractor();
