@@ -1,5 +1,5 @@
-public class Sustractor {
-public int substract (int a, int b) {
+public class Subtractor {
+public int subtract (int a, int b) {
     return a - b;
 }
 }
